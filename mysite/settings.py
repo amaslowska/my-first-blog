@@ -25,7 +25,7 @@ SECRET_KEY = 't0%u&bi%s6k5bk83@!njdkm+#ddw_*wa^z-gwmwaa4ep6m2tls'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Sony>.amaslowska.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'http://amaslowska.pythonanywhere.com/']
 
 
 # Application definition
